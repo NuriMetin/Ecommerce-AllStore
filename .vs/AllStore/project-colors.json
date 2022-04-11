@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c72d397f-adc5-438f-b1d0-8d43e664766f": {
+      "ProjectGuid": "c72d397f-adc5-438f-b1d0-8d43e664766f",
+      "DisplayName": "AllStore.App",
+      "ColorIndex": 0
+    },
+    "bec3af76-5d0b-4642-a820-055930f0d5c3": {
+      "ProjectGuid": "bec3af76-5d0b-4642-a820-055930f0d5c3",
+      "DisplayName": "AllStore.Domain",
+      "ColorIndex": 1
+    },
+    "57666efa-2d0b-46db-a6d7-4d005746b528": {
+      "ProjectGuid": "57666efa-2d0b-46db-a6d7-4d005746b528",
+      "DisplayName": "AllStore.Dal",
+      "ColorIndex": 2
+    },
+    "29228bc8-1c59-423c-8f3c-813e83297858": {
+      "ProjectGuid": "29228bc8-1c59-423c-8f3c-813e83297858",
+      "DisplayName": "AllStore.Service",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,13 @@
+D:\Project\RefactoringApp\AllStore\AllStore.Dal\bin\Debug\netcoreapp3.1\AllStore.Dal.deps.json
+D:\Project\RefactoringApp\AllStore\AllStore.Dal\bin\Debug\netcoreapp3.1\AllStore.Dal.dll
+D:\Project\RefactoringApp\AllStore\AllStore.Dal\bin\Debug\netcoreapp3.1\AllStore.Dal.pdb
+D:\Project\RefactoringApp\AllStore\AllStore.Dal\bin\Debug\netcoreapp3.1\AllStore.Domain.dll
+D:\Project\RefactoringApp\AllStore\AllStore.Dal\bin\Debug\netcoreapp3.1\AllStore.Domain.pdb
+D:\Project\RefactoringApp\AllStore\AllStore.Dal\obj\Debug\netcoreapp3.1\AllStore.Dal.csproj.AssemblyReference.cache
+D:\Project\RefactoringApp\AllStore\AllStore.Dal\obj\Debug\netcoreapp3.1\AllStore.Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\RefactoringApp\AllStore\AllStore.Dal\obj\Debug\netcoreapp3.1\AllStore.Dal.AssemblyInfoInputs.cache
+D:\Project\RefactoringApp\AllStore\AllStore.Dal\obj\Debug\netcoreapp3.1\AllStore.Dal.AssemblyInfo.cs
+D:\Project\RefactoringApp\AllStore\AllStore.Dal\obj\Debug\netcoreapp3.1\AllStore.Dal.csproj.CoreCompileInputs.cache
+D:\Project\RefactoringApp\AllStore\AllStore.Dal\obj\Debug\netcoreapp3.1\AllStore.Dal.csproj.CopyComplete
+D:\Project\RefactoringApp\AllStore\AllStore.Dal\obj\Debug\netcoreapp3.1\AllStore.Dal.dll
+D:\Project\RefactoringApp\AllStore\AllStore.Dal\obj\Debug\netcoreapp3.1\AllStore.Dal.pdb
